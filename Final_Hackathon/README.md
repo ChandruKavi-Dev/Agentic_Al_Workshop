@@ -178,7 +178,7 @@ Once both backend and frontend are running, visit:
 
 ## 📹 Demo Video
 
-📺 [Watch Demo on Google Drive](https://your-demo-link.com)
+📺 [Watch Demo on Google Drive](https://drive.google.com/file/d/11C_lmeo-6dOnUjVkkRVCNdp-6OFBWktY/view?usp=sharing)
 *Add your demo video link here.*
 
 ---
