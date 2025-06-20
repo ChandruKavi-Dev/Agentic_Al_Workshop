@@ -176,10 +176,12 @@ Once both backend and frontend are running, visit:
 
 ---
 
-## 📹 Demo Video
+## 📽️ Demo Video
 
-📺 [Watch Demo on Google Drive](https://drive.google.com/file/d/11C_lmeo-6dOnUjVkkRVCNdp-6OFBWktY/view?usp=sharing)
-*Add your demo video link here.*
+Watch a complete walkthrough of the **Clinical Fit Evaluator** project in action:
+
+👉 [Click here to view the demo video](https://drive.google.com/file/d/11C_lmeo-6dOnUjVkkRVCNdp-6OFBWktY/view?usp=sharing)
+
 
 ---
 ## 🙌 Credits
