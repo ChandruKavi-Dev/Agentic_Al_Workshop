@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+pymongo
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+beautifulsoup4
+requests
+python-multipart
+pypdf 
+python-docx 
+pyyaml          
+tenacity       
+chromadb        
